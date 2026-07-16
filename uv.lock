@@ -161,7 +161,7 @@ wheels = [
 
 [[package]]
 name = "hyundai-kia-connect-api"
-version = "3.52.1"
+version = "4.24.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },

@@ -6,7 +6,7 @@ authors = [{name = "Your Name", email = "you@example.com"}]
 requires-python = ">=3.11"
 dependencies = [
     "flask>=3.0.0",
-    "hyundai-kia-connect-api==4.5.0",
+    "hyundai-kia-connect-api==4.24.1",
     "requests>=2.31.0",
     "tzdata>=2023.3",
     "gunicorn>=21.2.0",
