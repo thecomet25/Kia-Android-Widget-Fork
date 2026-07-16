@@ -9,7 +9,7 @@ from hyundai_kia_connect_api import ClimateRequestOptions, VehicleManager
 from hyundai_kia_connect_api.exceptions import AuthenticationError
 
 # ── Constants ──
-DEFAULT_REGION = 1
+DEFAULT_REGION = 3
 REGION_CODES = {
     1: "Europe",
     2: "Canada",
