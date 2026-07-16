@@ -9,7 +9,7 @@ from hyundai_kia_connect_api import ClimateRequestOptions, VehicleManager
 from hyundai_kia_connect_api.exceptions import AuthenticationError
 
 # ── Constants ──
-DEFAULT_REGION = 2  # Canada
+DEFAULT_REGION = 1
 REGION_CODES = {
     1: "Europe",
     2: "Canada",
@@ -18,7 +18,7 @@ REGION_CODES = {
     5: "Australia",
 }
 BRAND_KIA = 1
-DEFAULT_BATTERY_CAPACITY_KWH = 77.4
+DEFAULT_BATTERY_CAPACITY_KWH = 84.0
 CACHE_TTL_SECONDS = 30
 MAX_REQUESTS_PER_MINUTE = 60
 
